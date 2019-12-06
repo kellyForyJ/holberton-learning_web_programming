@@ -1,1 +1,1 @@
-console.console.log("Betty Holberton");
+document.write("Betty Holberton");
