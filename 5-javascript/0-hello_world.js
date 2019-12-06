@@ -1,2 +1,1 @@
-var prueba = "Betty Holberton";
-document.write(prueba);
+console.log("Betty Holberton");
