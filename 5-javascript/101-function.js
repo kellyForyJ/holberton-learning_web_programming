@@ -4,7 +4,7 @@ console.log("hello world");
 
 }
 mystery();
-
+ 
 function duplicar(i){
 i=i*2
 console.log(i);
